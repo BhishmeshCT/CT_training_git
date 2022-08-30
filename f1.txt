@@ -1,3 +1,5 @@
 This is a new file.
 
 Some changes are made to the file.
+
+Some changes are made to the file in master branch
